@@ -10,9 +10,10 @@ This is a collaborative web application developed using the .NET Blazor framewor
 
 ## Team Members
 * Jhefersson Linares
-* 
-* 
-* 
+* Mario Alberto Astonitas Acuna
+* Lilian Marcela Vargas 
+* Lucky George Olumah
+* Cristian Moises De La Hoz
 
 ## Project Management
 * [Trello Board](https://trello.com/b/tkUNjUB7/net-blazor-project-group)
